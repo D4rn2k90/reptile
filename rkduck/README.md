@@ -1,2 +1,0 @@
-# rkduck Rootkit
-
